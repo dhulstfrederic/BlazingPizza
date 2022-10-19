@@ -1,0 +1,16 @@
+C:\dotnet\BlazingPizza\blazor-workshop\src\BlazingPizza.ComponentsLibrary\bin\Debug\net6.0\BlazingPizza.ComponentsLibrary.staticwebassets.runtime.json
+C:\dotnet\BlazingPizza\blazor-workshop\src\BlazingPizza.ComponentsLibrary\bin\Debug\net6.0\BlazingPizza.ComponentsLibrary.deps.json
+C:\dotnet\BlazingPizza\blazor-workshop\src\BlazingPizza.ComponentsLibrary\bin\Debug\net6.0\BlazingPizza.ComponentsLibrary.dll
+C:\dotnet\BlazingPizza\blazor-workshop\src\BlazingPizza.ComponentsLibrary\bin\Debug\net6.0\BlazingPizza.ComponentsLibrary.pdb
+C:\dotnet\BlazingPizza\blazor-workshop\src\BlazingPizza.ComponentsLibrary\obj\Debug\net6.0\BlazingPizza.ComponentsLibrary.csproj.AssemblyReference.cache
+C:\dotnet\BlazingPizza\blazor-workshop\src\BlazingPizza.ComponentsLibrary\obj\Debug\net6.0\BlazingPizza.ComponentsLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet\BlazingPizza\blazor-workshop\src\BlazingPizza.ComponentsLibrary\obj\Debug\net6.0\BlazingPizza.ComponentsLibrary.AssemblyInfoInputs.cache
+C:\dotnet\BlazingPizza\blazor-workshop\src\BlazingPizza.ComponentsLibrary\obj\Debug\net6.0\BlazingPizza.ComponentsLibrary.AssemblyInfo.cs
+C:\dotnet\BlazingPizza\blazor-workshop\src\BlazingPizza.ComponentsLibrary\obj\Debug\net6.0\BlazingPizza.ComponentsLibrary.csproj.CoreCompileInputs.cache
+C:\dotnet\BlazingPizza\blazor-workshop\src\BlazingPizza.ComponentsLibrary\obj\Debug\net6.0\staticwebassets.build.json
+C:\dotnet\BlazingPizza\blazor-workshop\src\BlazingPizza.ComponentsLibrary\obj\Debug\net6.0\staticwebassets.development.json
+C:\dotnet\BlazingPizza\blazor-workshop\src\BlazingPizza.ComponentsLibrary\obj\Debug\net6.0\scopedcss\bundle\BlazingPizza.ComponentsLibrary.styles.css
+C:\dotnet\BlazingPizza\blazor-workshop\src\BlazingPizza.ComponentsLibrary\obj\Debug\net6.0\BlazingPizza.ComponentsLibrary.dll
+C:\dotnet\BlazingPizza\blazor-workshop\src\BlazingPizza.ComponentsLibrary\obj\Debug\net6.0\refint\BlazingPizza.ComponentsLibrary.dll
+C:\dotnet\BlazingPizza\blazor-workshop\src\BlazingPizza.ComponentsLibrary\obj\Debug\net6.0\BlazingPizza.ComponentsLibrary.pdb
+C:\dotnet\BlazingPizza\blazor-workshop\src\BlazingPizza.ComponentsLibrary\obj\Debug\net6.0\ref\BlazingPizza.ComponentsLibrary.dll
