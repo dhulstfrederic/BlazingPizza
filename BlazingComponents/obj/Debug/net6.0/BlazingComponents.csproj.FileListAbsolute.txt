@@ -1,0 +1,15 @@
+C:\dotnet\BlazingPizza\blazor-workshop\src\BlazingComponents\bin\Debug\net6.0\BlazingComponents.deps.json
+C:\dotnet\BlazingPizza\blazor-workshop\src\BlazingComponents\bin\Debug\net6.0\BlazingComponents.dll
+C:\dotnet\BlazingPizza\blazor-workshop\src\BlazingComponents\bin\Debug\net6.0\BlazingComponents.pdb
+C:\dotnet\BlazingPizza\blazor-workshop\src\BlazingComponents\obj\Debug\net6.0\BlazingComponents.csproj.AssemblyReference.cache
+C:\dotnet\BlazingPizza\blazor-workshop\src\BlazingComponents\obj\Debug\net6.0\BlazingComponents.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet\BlazingPizza\blazor-workshop\src\BlazingComponents\obj\Debug\net6.0\BlazingComponents.AssemblyInfoInputs.cache
+C:\dotnet\BlazingPizza\blazor-workshop\src\BlazingComponents\obj\Debug\net6.0\BlazingComponents.AssemblyInfo.cs
+C:\dotnet\BlazingPizza\blazor-workshop\src\BlazingComponents\obj\Debug\net6.0\BlazingComponents.csproj.CoreCompileInputs.cache
+C:\dotnet\BlazingPizza\blazor-workshop\src\BlazingComponents\obj\Debug\net6.0\staticwebassets.build.json
+C:\dotnet\BlazingPizza\blazor-workshop\src\BlazingComponents\obj\Debug\net6.0\staticwebassets.development.json
+C:\dotnet\BlazingPizza\blazor-workshop\src\BlazingComponents\obj\Debug\net6.0\scopedcss\bundle\BlazingComponents.styles.css
+C:\dotnet\BlazingPizza\blazor-workshop\src\BlazingComponents\obj\Debug\net6.0\BlazingComponents.dll
+C:\dotnet\BlazingPizza\blazor-workshop\src\BlazingComponents\obj\Debug\net6.0\refint\BlazingComponents.dll
+C:\dotnet\BlazingPizza\blazor-workshop\src\BlazingComponents\obj\Debug\net6.0\BlazingComponents.pdb
+C:\dotnet\BlazingPizza\blazor-workshop\src\BlazingComponents\obj\Debug\net6.0\ref\BlazingComponents.dll
